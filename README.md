@@ -37,7 +37,7 @@ screen ./autobd.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+git clone https://github.com/alirezajj1994/BDReborn.git && cd BDReborn && chmod +x beyond.sh && chmod +x a.sh && chmod +x autobd.sh && ./beyond.sh install && ./beyond.sh
 
 OR
 
